@@ -1,1 +1,11 @@
 
+Action Items
+
+1. Download & Installl Visual Studio Community 2022 
+2. Create New solution & Projects
+	-> Web Application
+	-> Windows/Desktop Application
+	-> Console Application
+3. Go thorugh the different options/Menues available in visual studio
+4. Go thorugh the Folders created after creating the Projects
+5. Build the Appplicaiton and try to run
