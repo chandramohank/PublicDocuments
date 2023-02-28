@@ -1,11 +1,35 @@
+ActionItems
 
-Action Items
-
-1. Download & Installl Visual Studio Community 2022 
-2. Create New solution & Projects
-	-> Web Application
-	-> Windows/Desktop Application
-	-> Console Application
-3. Go thorugh the different options/Menues available in visual studio
-4. Go thorugh the Folders created after creating the Projects
-5. Build the Appplicaiton and try to run
+Create TestProject (c#, NUnit)
+	Install Selenium Web Driver
+	
+Crate Folowing test Cases
+	TestCase1 : 
+		Open WebSite "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"
+		Close the WebSite
+	TestCase2
+		Open WebSite "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"
+		Read the tile of the WebSite
+		Read the PageSource
+		#find the diferrence between Quit and close
+		Close the WebSite
+	
+	
+	#Naviagte Functions
+	TestCase3
+		Open WebSite "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"
+		Move Forward
+		Move Backward
+		Close the WebSite
+	TestCase3
+		Open WebSite "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"
+		Move Forward
+		Move Backward
+		Close the WebSite
+	TestCase4
+		Open WebSite "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"
+		Naviaget to URL "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer" using function "Navigate().GoToUrl()" 
+		Close the WebSite
+		
+		
+		#Interact with Page Elements
