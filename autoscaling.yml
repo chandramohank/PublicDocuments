@@ -4,7 +4,7 @@ metadata:
   name: studio-payment-scaleobject
 spec:
   scaleTargetRef:
-    deploymentName: dotnetworld
+    name: dotnetworld
   # minReplicaCount: 0 Change to define how many minimum replicas you want
   minReplicaCount: 0
   maxReplicaCount: 4
